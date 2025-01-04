@@ -21,6 +21,8 @@ on:
           - openwrt:23.05.5
           - openwrt:23.05.4
           - openwrt:23.05.3
+          - openwrt:22.03.6
+          - openwrt:21.02.7
           - immortalwrt:23.05.4
           - immortalwrt:23.05.3
           - immortalwrt:23.05.2
